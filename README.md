@@ -103,3 +103,7 @@ nohup geth --datadir data \
 `export GOPATH=/home/niket/blockchain/go_projects` <br/>
 1. Issue of missing requirement while running make test: <br/>
 `go get google.golang.org/protobuf/types/known/timestamppb@v1.28.0`
+
+
+## YouTube video:
+https://youtu.be/ZMlSSSGtoPo
