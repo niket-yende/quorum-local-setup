@@ -1,0 +1,3 @@
+./killGeth.sh
+./killTessera.sh
+
