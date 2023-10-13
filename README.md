@@ -95,6 +95,20 @@ nohup geth --datadir data \
   --port 30304 2>>4.log &
 ```
 
+## Quorum version
+```
+niket@niket-X555LAB:~$ geth version
+Geth
+Version: 1.10.3-stable
+Quorum Version: 23.4.0
+Architecture: amd64
+Network Id: 1337
+Go Version: go1.16.7
+Operating System: linux
+GOPATH=/home/niket/blockchain/go_projects
+GOROOT=/usr/local/go
+```
+
 ## Troubleshooting the common issues
 1. gcc issue: <br/>
 `apt-get install build-essential`
